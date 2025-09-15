@@ -4,7 +4,7 @@ Simple desktop GUI tool (PyQt5) to view and edit `cs2_video.txt` / `video.cfg` s
 
 ## Features
 - Loads/saves CS2 video config text files
-- Widgets for all discovered settings (resolution, fullscreen, vsync, quality levels, etc.)
+- Widgets for all discovered settings (resolution, fullscreen, V-Sync, quality levels, etc.)
 - Preserves unknown / metadata keys (Version, VendorID, DeviceID, Autoconfig)
 - Remembers last opened path (stored in `editor_state.json`)
 - Dark themed UI
@@ -60,6 +60,7 @@ Use `--exclude-module` for unused modules or enable UPX if installed (`--upx-dir
 5. 👀 Display diff preview before saving.
 
 Contributions & suggestions welcome.
+
 
 
 
