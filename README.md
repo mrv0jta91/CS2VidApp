@@ -53,13 +53,14 @@ Use `--exclude-module` for unused modules or enable UPX if installed (`--upx-dir
 - Unknown keys present in the file but not in the schema are preserved internally (future enhancement: show them in an "Advanced" section).
 
 ## Future Ideas
-✅ Auto-detect Steam library and enumerate user IDs
-⏳ Add "Apply Preset" buttons (Low / Medium / High / Competitive)
-⏳ Support drag & drop of the config file onto the window
-👀 Add backup creation before overwriting
-👀 Display diff preview before saving.
+1. ✅ Auto-detect Steam library and enumerate user IDs
+2. ⏳ Add "Apply Preset" buttons (Low / Medium / High / Competitive)
+3. ⏳ Support drag & drop of the config file onto the window
+4. 👀 Add backup creation before overwriting
+5. 👀 Display diff preview before saving.
 
 Contributions & suggestions welcome.
+
 
 
 
